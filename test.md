@@ -54,3 +54,9 @@ starting meat to  version control system.
 ```sh
 git clone link2repo.git
 ```
+
+## how to add remote repo
+
+```sh
+git remote add origin link2repo.git
+```
