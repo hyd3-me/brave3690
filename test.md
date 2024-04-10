@@ -60,3 +60,9 @@ git clone link2repo.git
 ```sh
 git remote add origin link2repo.git
 ```
+
+## how to add changes to remote dir
+
+```sh
+git push
+```
