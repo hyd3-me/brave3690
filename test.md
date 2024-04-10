@@ -48,3 +48,9 @@ git branch new_branch_name
 ```
 
 starting meat to  version control system.
+
+## how to clone repo
+
+```sh
+git clone link2repo.git
+```
