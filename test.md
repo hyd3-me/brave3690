@@ -1,4 +1,4 @@
-# h1 gitHub. thisd my first pull request
+# h1 gitHub. this my first pull request
 
 # file version control system
 hello world!
@@ -65,4 +65,10 @@ git remote add origin link2repo.git
 
 ```sh
 git push
+```
+
+## how to push new branch to remote repo
+
+```sh
+git push --set-upstream origin branch_name
 ```
